@@ -16,3 +16,5 @@ Rebase Commands
 ![Rebase Commands](a5_i1.png)  
 ---
 ![Rebase Commands 2](a5_i2.png)  
+---  
+![Rebase Commands 2 Log](a5_i3.png)  
