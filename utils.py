@@ -1,5 +1,5 @@
 class Utils:
-    def reversed(number: int) -> int:
+    def reversed(self, number: int) -> int:
         if not isinstance(number, int):
             raise TypeError("value must be an integer")
 
@@ -14,7 +14,7 @@ class Utils:
 
         return -reversed_number if is_negative else reversed_number
         
-    def formatter(number: int) -> tuple[str, str]:
+    def formatter(self, number: int) -> tuple[str, str]:
         if not isinstance(number, int):
             raise TypeError("value must be an integer")
 
