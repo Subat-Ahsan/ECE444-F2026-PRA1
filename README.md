@@ -6,3 +6,5 @@ First commit
 Hello World  
 ![Merge](a2_i1.png)  
 
+Merge Conflict  
+![Merge Conflict](a3_i1.png)  
